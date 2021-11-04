@@ -1,0 +1,9 @@
+Paa proxmox
+username: Andre
+id: 104
+
+Paa linux serveren:
+username: herrkrabbe
+password: Vinter2021
+
+inet: 192.168.1.118
