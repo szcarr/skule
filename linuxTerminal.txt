@@ -1,16 +1,26 @@
+LINUX COMMANDS I TERMNIAL
+  mkdir - make folder
+  rmdir - remove folder
 
-mkdir - make folder
-rmdir - remove folder
-
+PROXMOX
+  https://192.168.1.160:8006
+  
+  Username: root
+  Passoword: Vinter2021
+  
 TETRIS
-sudo apt install
+  sudo apt install
 
-vitetris listen 34034
-vitetris connect 192.168.1.103:34034
+  vitetris listen 34034
+  vitetris connect 192.168.1.103:34034
 
 SKJERM UTANFOR 3DEA
-0 0 0 X 0
-IP: 192.168.1.191
+  0 0 0 X 0 (André)
+  IP: 192.168.1.191
 
-0 0 0 0 X
-IP: 192.168.1.141 ? (hehehehe)
+  0 0 0 0 X (Aleks)
+  IP: 192.168.1.141 ? (hehehehe)
+  
+  0 0 X 0 0 (Nils)
+  IP: 192.168.1.XXX
+ 
