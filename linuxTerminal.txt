@@ -8,6 +8,8 @@ PROXMOX
   Username: root
   Passoword: Vinter2021
   
+PYTHON I LINUX
+  wget https://www.python.org/ftp/python/3.9.8/Python-3.9.8.tgz
 TETRIS
   sudo apt install
 
