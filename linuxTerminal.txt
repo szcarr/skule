@@ -1,3 +1,16 @@
 
 mkdir - make folder
 rmdir - remove folder
+
+TETRIS
+sudo apt install
+
+vitetris listen 34034
+vitetris connect 192.168.1.103:34034
+
+SKJERM UTANFOR 3DEA
+0 0 0 X 0
+IP: 192.168.1.191
+
+0 0 0 0 X
+IP: 192.168.1.141 ? (hehehehe)
