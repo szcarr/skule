@@ -1,7 +1,17 @@
 LINUX COMMANDS I TERMNIAL
-  mkdir - make folder
-  rmdir - remove folder
-
+  GENERELLE COMMANDS
+    mkdir - make folder
+    rmdir - remove folder
+  
+  FOR AA SENDE MELDINGAR I LINUX TERMINAL
+    /*
+    *   MAA VERE TILKOBLA PAA SAMME SERVER
+    */
+      
+    tty
+    who (for aa sjaa ip addressa til folk)
+    finne pts punkte
+    sudo echp
 PROXMOX
   https://192.168.1.160:8006
   
@@ -10,6 +20,7 @@ PROXMOX
   
 PYTHON I LINUX
   wget https://www.python.org/ftp/python/3.9.8/Python-3.9.8.tgz
+  
 TETRIS
   sudo apt install
 
@@ -21,8 +32,13 @@ SKJERM UTANFOR 3DEA
   IP: 192.168.1.191
 
   0 0 0 0 X (Aleks)
-  IP: 192.168.1.141 ? (hehehehe)
+  IP: 192.168.1.147 ? (hehehehe)
   
   0 0 X 0 0 (Nils)
-  IP: 192.168.1.XXX
+  IP: 192.168.1.141
  
+    0 X 0 0 0 (Nickolai)
+  IP: 192.168.1.143
+  
+    X 0 0 0 0 (Isak)
+  IP: 192.168.1.120
