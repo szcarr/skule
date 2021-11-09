@@ -33,7 +33,6 @@ SKJERM UTANFOR 3DEA
   0 0 0 X 0 (André)
   IP: 192.168.1.191
 
-https://cdn.discordapp.com/attachments/795922848551927858/907604147497484308/unknown.png
   0 0 0 0 X (Aleks)
   IP: 192.168.1.147 ? (hehehehe)
   
@@ -45,3 +44,5 @@ https://cdn.discordapp.com/attachments/795922848551927858/907604147497484308/unk
   
   X 0 0 0 0 (Isak)
   IP: 192.168.1.120
+
+https://iotdesignpro.com/projects/raspberry-pi-servo-motor-control-through-a-webpage-using-flask
