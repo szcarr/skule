@@ -1,7 +1,9 @@
 LINUX COMMANDS I TERMNIAL
   GENERELLE COMMANDS
-    mkdir - make folder
-    rmdir - remove folder
+    cd - change directory (Syntax: cd <filepath>)
+    mkdir - make folder (Syntax: mkdir "name" <filepath>)
+    rmdir - remove folder (Syntax: rmdir "name" <filepath>)
+    ls - list all files in directory (Syntax: ls | ls <filepath>)
   
   FOR AA SENDE MELDINGAR I LINUX TERMINAL
     /*
@@ -10,8 +12,8 @@ LINUX COMMANDS I TERMNIAL
       
     tty
     who (for aa sjaa ip addressa til folk)
-    finne pts punkte
-    sudo echp
+    sudo echo "tekst" > /dev/pts/0
+    
 PROXMOX
   https://192.168.1.160:8006
   
@@ -37,8 +39,8 @@ SKJERM UTANFOR 3DEA
   0 0 X 0 0 (Nils)
   IP: 192.168.1.141
  
-    0 X 0 0 0 (Nickolai)
+  0 X 0 0 0 (Nickolai)
   IP: 192.168.1.143
   
-    X 0 0 0 0 (Isak)
+  X 0 0 0 0 (Isak)
   IP: 192.168.1.120
