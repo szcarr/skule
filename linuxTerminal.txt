@@ -45,7 +45,7 @@ SKJERM UTANFOR 3DEA
   X 0 0 0 0 (Isak)
   IP: 192.168.1.120
 
-https://iotdesignpro.com/projects/raspberry-pi-servo-motor-control-through-a-webpage-using-flask
+https://cdn.discordapp.com/attachments/795922848551927858/907915538708193300/unknown.png
 
 Skule IP:
   93.94.15.205
