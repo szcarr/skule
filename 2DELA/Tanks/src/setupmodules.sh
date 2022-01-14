@@ -21,7 +21,7 @@ sudo apt update
 sudo apt upgrade -y
 sudo apt install -y vim git
 
-#sudo usermod -a -G spi,gpio pi
+#sudo usermod -a -G spi,gpio,i2c pi <- den gamle som fungerte
 sudo usermod -a -G spi,gpio,i2c pi
 
 sudo apt install -y python3 python3-pip python3-dev 
