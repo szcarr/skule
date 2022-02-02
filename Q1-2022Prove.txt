@@ -1,0 +1,13 @@
+https://www.raspberrypi.com/software/operating-systems/ -> velg Raspberry Pi OS Lite
+last ned balena etcher https://www.balena.io/etcher/
+gå på balena etcher -> flash from file (velg fil som du lasta ned frå raspberrypi.com)
+velg sd kort
+Flash.
+Deretter gå inn i filsystemet på sd kortet -> lag ny tekst fil med navn "ssh.txt"
+safe eject
+insert sd kort i raspberry pi
+
+ssh inn (bruk wireshark og ha "dhcp" som filter og koble raspberry pi til straum)
+ssh-keygen -f "/home/<username>/.ssh/known_hosts" -R "192.168.1.XXX"
+
+ssh-keygen -f "/home/scp092/.ssh/known_hosts" -R "192.168.1.144"
