@@ -1,0 +1,6 @@
+finn bilde
+annotere dei
+last opp på roboflow
+lage dataset
+ta dataset til colab
+bruke pt fila på gpu

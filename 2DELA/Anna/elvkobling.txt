@@ -1,0 +1,5 @@
+IEEE 802.11 Wifi 
+Ei antenne med biblioteket
+Ei antenne med elva
+2.5 km avstand mellom antennene
+21014
