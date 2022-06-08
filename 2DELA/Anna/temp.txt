@@ -1,0 +1,22 @@
+For switch finn mac addressa på switchen:
+00:1D:B3:F0:B3:80
+sudo nast -m | grep "B3:80"
+Finn ip 
+telnet <ip>
+config
+#no interface <ruter port> power-over-ethernet # For å skru av ein port
+#interface <ruter port> 
+
+interface e 1 disable
+
+Sjå https://github.com/jarleven/NetworkHOWTO/blob/master/Switch/HPProCurve.md
+Ctrl+f Configure Power over
+
+https://192.168.1.151:4343 er ip på AP i gangen
+https://192.168.1.139:4343 er home
+
+
+192.168.1.100
+192.168.1.101
+
+sudo nmap -p 23 192.168.1.* | grep open -B 4 -A 1 | grep ProCurve -B 5 -A 1
